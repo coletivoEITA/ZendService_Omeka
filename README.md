@@ -1,4 +1,4 @@
-h1. Omeka REST API Client
+# Omeka REST API Client
 
 ```php
 require_once '/path/to/Zend/Loader/StandardAutoloader.php';
